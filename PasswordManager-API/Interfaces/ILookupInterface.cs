@@ -1,4 +1,4 @@
-﻿using PasswordManager_API.DTOs;
+﻿using PasswordManager_API.DTOs.Lookup;
 
 namespace PasswordManager_API.Interfaces
 {

@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using PasswordManager_API.Context;
-using PasswordManager_API.DTOs;
+using PasswordManager_API.DTOs.Lookup;
 using PasswordManager_API.Interfaces;
 
 namespace PasswordManager_API.Services

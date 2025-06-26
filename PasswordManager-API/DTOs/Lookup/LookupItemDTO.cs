@@ -1,4 +1,4 @@
-﻿namespace PasswordManager_API.DTOs
+﻿namespace PasswordManager_API.DTOs.Lookup
 {
     public class LookupItemDTO
     {
